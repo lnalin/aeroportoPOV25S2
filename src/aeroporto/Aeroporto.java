@@ -1,0 +1,24 @@
+/*
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+ * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ */
+package aeroporto;
+
+/**
+ *
+ * @author Aluno
+ */
+public class Aeroporto {
+
+    void programa()
+    {
+        System.out.println("Test");
+
+    }
+    public static void main(String[] args) 
+    {
+        Aeroporto aeroporto = new Aeroporto();
+        aeroporto.programa();
+    }
+    
+}
