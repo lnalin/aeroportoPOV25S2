@@ -42,3 +42,6 @@ testando mais uma vez quem é o viado
 
 
 oioiooi
+
+
+Estou viciado em aposta, o que eu devo fazer ? 
