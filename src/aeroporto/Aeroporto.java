@@ -29,4 +29,12 @@ public class Aeroporto {
 
 teste 123 aaaaa eu vou gozar 
 
+<<<<<<< HEAD
 // versão master  desatuyalizada 
+=======
+o jogo 123
+>>>>>>> origin/master
+
+
+
+testando mais uma vez quem é o viado 
