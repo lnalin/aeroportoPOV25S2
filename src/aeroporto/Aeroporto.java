@@ -34,7 +34,11 @@ teste 123 aaaaa eu vou gozar
 =======
 o jogo 123
 >>>>>>> origin/master
-
+  
 
 
 testando mais uma vez quem é o viado 
+
+
+
+oioiooi
